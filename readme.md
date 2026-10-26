@@ -357,7 +357,7 @@ Python list is an ordered collection which allows to store different data type i
 
 #### Dictionary
 
-A Python dictionary object is an unordered collection of data in a key value pair format.
+A Python dictionary object is an ordered collection of data in a key value pair format.
 
 **Example:**
 
